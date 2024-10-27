@@ -1,3 +1,7 @@
 requests==2.31.0
 
-
+# Для тестов
+pytest
+pytest-cov
+requests-mock
+configparser
